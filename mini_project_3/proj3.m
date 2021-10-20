@@ -210,11 +210,11 @@ legend("Angle","X","Y","Z")
 xlabel("Lambda (m)")
 
 %% plotting arm motion
-for ksol = 5:6
+figure(2)
+for ksol = 6
     for i=1:N
         % show robot pose (ever 5 frames)
         if mod(i,5)==0
-
             mov_iter = mov_iter+1;
             show(irb1200_rbt,q(:,i,ksol),'collision','on');
             M(mov_iter) = getframe;
