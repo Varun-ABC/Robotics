@@ -1,0 +1,3 @@
+proj3.m is the main file where all code is executed. To execute the whole thing, press the green arrow. 
+However, for ease, it is split up in section which can be run independently, given that the initial set up section (section 1) has been run.
+The inverse kinematics is done out of proj3.m in invkin_6DOF.m
