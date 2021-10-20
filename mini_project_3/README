@@ -1,3 +1,9 @@
 proj3.m is the main file where all code is executed. To execute the whole thing, press the green arrow. 
 However, for ease, it is split up in section which can be run independently, given that the initial set up section (section 1) has been run.
 The inverse kinematics is done out of proj3.m in invkin_6DOF.m
+The sphere with outward normal is plotted in section 2
+The roation matrix representations are calcualted and plotted in section 3
+The arm motion is calculated and plotted in section 4
+The error plots are computed in section 5
+The end effector velocity is in section 6
+All functions are on the bottom of the file
