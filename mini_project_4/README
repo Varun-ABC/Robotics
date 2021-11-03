@@ -1,0 +1,10 @@
+# MiniProject 4
+
+Robotics 1, Professor John Wen
+
+Proj4 will run the whole thing
+However, Individual parts are broken out
+Kincheck makes sure that different methods of finding the inverse kinematics make sure that the solution converges to the desired pose
+error metric, does not work because invkin_iterJ_kth does not work. 
+Jacobian comparision compares jacobioan 
+parameter finder looks at how different parameters affect convergance
