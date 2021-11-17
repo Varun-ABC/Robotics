@@ -53,3 +53,19 @@ axis equal
 % cam image.m: generation of of a camera image from a pattern of 3D points.
 
 camcalib
+
+%% Part 3
+% To find the extrensic parameters run the following code
+
+hand_eye_cal
+
+%% Part 4a: PBVS
+
+
+proj5VS
+
+%% Part 4b: IBVS
+
+
+proj5IBVS
+
